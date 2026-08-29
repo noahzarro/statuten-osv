@@ -1,7 +1,8 @@
 # Traktanden
-- [ ] Name
+- [ ] Name: 
 - [ ] Zweck
 - [ ] Aufnahme
 - [ ] Mitgliederbeiträge
 - [ ] Form Vorstand
 - [ ] Auflösung
+- [ ] Name
