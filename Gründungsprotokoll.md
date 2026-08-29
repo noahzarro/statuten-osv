@@ -4,5 +4,5 @@
 - [ ] Aufnahme: Auf Antrag von Mitglied bestimmt der Vorstand über die Aufnahme
 - [ ] Mitgliederbeiträge
 - [ ] Form Vorstand
-- [ ] Auflösung
-- [ ] Name
+- [ ] Auflösung: Mittel werden verprasst.
+- [ ] Name: Schabernack Bewegung Schweiz
