@@ -60,12 +60,11 @@ Die Organe des Vereins sind:
 1. Die Generalversammlung
 2. Der Vorstand
 3. Die Revisionsstelle (Kontrollstelle)
-4. [weitere Organe, falls nötig]
 
 ### Art. 9 Generalversammlung
-Die Generalversammlung ist das oberste Organ des Vereins. Sie findet jährlich innerhalb von [z. B. sechs Monaten] nach Abschluss des Vereinsjahres statt. Eine ausserordentliche Generalversammlung wird einberufen, wenn der Vorstand dies beschliesst oder mindestens **[Anzahl / Anteil]** der Mitglieder dies schriftlich unter Angabe der Gründe verlangen.
+Die Generalversammlung ist das oberste Organ des Vereins. Sie findet jährlich nach Abschluss des Vereinsjahres statt. Eine ausserordentliche Generalversammlung wird einberufen, wenn der Vorstand dies beschliesst oder mindestens 7 der Mitglieder dies schriftlich unter Angabe der Gründe verlangen.
 
-Die Einladung erfolgt **[schriftlich / per E-Mail]** unter Angabe der Traktanden mindestens **[z. B. 20 Tage]** im Voraus.
+Die Einladung erfolgt schriftlich / per E-Mail unter Angabe der Traktanden am Vollmond  mindestens 29 Tage vor der Generalversammung.
 
 #### Art. 9a Aufgaben der Generalversammlung
 Der Generalversammlung obliegen insbesondere:
@@ -80,19 +79,14 @@ Der Generalversammlung obliegen insbesondere:
 #### Art. 9b Beschlussfassung
 Die Generalversammlung ist unabhängig von der Anzahl anwesender Mitglieder beschlussfähig. Beschlüsse werden mit einfachem Mehr der anwesenden Mitglieder gefasst, soweit die Statuten nichts anderes vorsehen. Bei Stimmengleichheit gibt die Stimme des/der Präsident:in den Ausschlag.
 
-Für Statutenänderungen und die Auflösung des Vereins ist ein Mehr von **[z. B. zwei Dritteln]** der anwesenden Mitglieder erforderlich.
+Für Statutenänderungen und die Auflösung des Vereins ist ein qualifizierts Mehr von 51/100 der anwesenden Mitglieder erforderlich.
 
 Abstimmungen erfolgen offen, sofern nicht die geheime Abstimmung verlangt wird.
 
 ### Art. 10 Vorstand
-Der Vorstand besteht aus mindestens **[Anzahl, z. B. drei]** Mitgliedern:
-- Präsident:in
-- [Vizepräsident:in]
-- Kassier:in
-- Aktuar:in
-- [Beisitzer:in]
+Der Vorstand besteht aus mindestens 3 Mitgliedern
 
-Der Vorstand wird von der Generalversammlung für eine Amtsdauer von **[z. B. zwei Jahren]** gewählt; Wiederwahl ist möglich.
+Der Vorstand wird von der Generalversammlung für eine Amtsdauer von zwei Jahren gewählt; Wiederwahl ist möglich.
 
 #### Art. 10a Aufgaben des Vorstands
 Der Vorstand leitet den Verein und ist für alle Angelegenheiten zuständig, die nicht ausdrücklich einem anderen Organ zugewiesen sind. Insbesondere:
