@@ -6,3 +6,4 @@
 - [ ] Form Vorstand
 - [ ] Auflösung: Mittel werden verprasst.
 - [ ] Name: Schabernack Bewegung Schweiz
+- [ ] Vorstand: Joya&Calmo, Moai, Tilja, Saïda
