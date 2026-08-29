@@ -100,7 +100,7 @@ Der Vorstand leitet den Verein und ist für alle Angelegenheiten zuständig, die
 - Vorbereitung der Generalversammlung
 - Vollzug der Generalversammlungsbeschlüsse
 - Buchführung und Rechnungslegung
-- Aufnahme und Ausschluss von Mitgliedern (soweit nicht der GV vorbehalten)
+- Aufnahme und Ausschluss von Mitgliedern
 
 Der Vorstand konstituiert sich selbst und fasst seine Beschlüsse mit einfachem Mehr.
 
