@@ -1,7 +1,7 @@
 # Traktanden
 - [ ] Name: 
 - [ ] Zweck
-- [ ] Aufnahme
+- [ ] Aufnahme: Auf Antrag von Mitglied bestimmt der Vorstand über die Aufnahme
 - [ ] Mitgliederbeiträge
 - [ ] Form Vorstand
 - [ ] Auflösung
